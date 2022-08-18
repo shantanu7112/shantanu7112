@@ -4,7 +4,8 @@
 -
 -  📫 you can reach me on ![insta](https://user-images.githubusercontent.com/74724194/185288135-2b68590e-3d73-446b-b75f-d1f5328c192d.jpg)
 https://www.instagram.com/shantanu_jha7/ 
--                      ![linkedin](https://user-images.githubusercontent.com/74724194/185288209-478d885a-d490-4464-887f-a5a811437441.jpg)
+-                      
+![linkedin](https://user-images.githubusercontent.com/74724194/185288337-536863e7-1e73-4b83-aef6-7170efc04664.jpg)
   https://www.linkedin.com/in/shantanu-jha-a63b36199/
 
 <!---
