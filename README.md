@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shantanu Jha, @shantanu7112
 - 👀 I’m interested in computers and programming.
 - 🌱 I’m currently learning web development.
--
 -  📫 you can reach me on <br>
 https://www.instagram.com/shantanu_jha7/                       
 https://www.linkedin.com/in/shantanu-jha-a63b36199/
