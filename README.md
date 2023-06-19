@@ -5,8 +5,10 @@
 -  📫 you can reach me on <br>
 https://www.instagram.com/shantanu_jha7/                       
 https://www.linkedin.com/in/shantanu-jha-a63b36199/
+---
 <br>
 <u> Languages and Toosls Used: </u>
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -20,6 +22,7 @@ https://www.linkedin.com/in/shantanu-jha-a63b36199/
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+---
 ---
 
 ### :fire: My Stats :
