@@ -1,4 +1,4 @@
-<u> About Me: </u>
+<u>:woman_technologist: About Me :</u>
 - 👋 Hi, I’m Shantanu Jha, @shantanu7112
 - 👀 I’m interested in computers and programming.
 - 🌱 I’m currently learning web development.
@@ -7,7 +7,7 @@ https://www.instagram.com/shantanu_jha7/
 https://www.linkedin.com/in/shantanu-jha-a63b36199/
 ---
 <br>
-<u> Languages and Toosls Used: </u>
+<u> :hammer_and_wrench: Languages and Tools : </u>
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -20,13 +20,15 @@ https://www.linkedin.com/in/shantanu-jha-a63b36199/
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
 ---
----
-### :fire: My Stats :
+ :fire: My Stats :
+ <br>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shantanu7112&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- <!---
+<br>
+---
 shantanu7112/shantanu7112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
