@@ -3,6 +3,8 @@
 - 👀 I’m interested in Web development and Cloud Computing.
 - 🌱 I’m currently learning web development.
 -  📫 you can reach me on <br>
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shantanu-jha-a63b36199/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:shantanu7112@gmail)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/shantanu_jha7/)
