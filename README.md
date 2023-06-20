@@ -1,10 +1,12 @@
 <u>:woman_technologist: About Me :</u>
 - 👋 Hi, I’m Shantanu Jha, @shantanu7112
-- 👀 I’m interested in computers and programming.
+- 👀 I’m interested in Web development and Cloud Computing.
 - 🌱 I’m currently learning web development.
 -  📫 you can reach me on <br>
-https://www.instagram.com/shantanu_jha7/                       
-https://www.linkedin.com/in/shantanu-jha-a63b36199/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shantanu-jha-a63b36199/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:shantanu7112@gmail)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/shantanu_jha7/)
+
 ---
 <br>
 <u> :hammer_and_wrench: Languages and Tools : </u>
@@ -29,6 +31,3 @@ https://www.linkedin.com/in/shantanu-jha-a63b36199/
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shantanu7112&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br>
 ---
-shantanu7112/shantanu7112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
