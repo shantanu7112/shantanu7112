@@ -1,16 +1,22 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
 <u>:woman_technologist: About Me :</u>
 - 👋 Hi, I’m Shantanu Jha, @shantanu7112
 - 👀 I’m interested in Web development and Cloud Computing.
 - 🌱 I’m currently learning web development.
 -  📫 you can reach me on: <br>
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shantanu-jha-a63b36199/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:shantanu7112@gmail)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram)](https://www.instagram.com/shantanu_jha7/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brightgreen)](https://leetcode.com/shantanu7112/)
+
 
 ---
-<br>
 <u> :hammer_and_wrench: Languages and Tools : </u>
 <br>
 <div>
@@ -31,5 +37,6 @@
  <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shantanu7112&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br>
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu7112)](https://github.com/anuraghazra/github-readme-stats)
 ---
