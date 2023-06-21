@@ -5,7 +5,7 @@
 ---
 
 <u>:woman_technologist: About Me :</u>
-- 👋 Hi, I’m Shantanu Jha, @shantanu7112
+- 👋 Hi, I’m Shantanu Jha, [@shantanu7112](https://github.com/shantanu7112)
 - 👀 I’m interested in Web development and Cloud Computing.
 - 🌱 I’m currently learning web development.
 -  📫 you can reach me on: <br>
